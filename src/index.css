@@ -1,0 +1,27 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+input {
+    width: 100px;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+#cardMantapBanteng {
+    width: 18rem;
+}
+
+#imageBanteng {
+    height: 200px;
+}
+
+#cardLogin{
+    width: 300px;
+}
